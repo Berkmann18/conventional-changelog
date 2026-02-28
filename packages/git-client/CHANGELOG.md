@@ -2,6 +2,8 @@
 
 ## [2.5.1](https://github.com/Berkmann18/conventional-changelog/compare/git-client-v2.5.1...git-client-v2.5.1) (2026-02-28)
 
+## [2.5.1](https://github.com/Berkmann18/conventional-changelog/compare/git-client-v2.5.1...git-client-v2.5.1) (2026-02-28)
+
 ## [2.5.1](https://github.com/Berkmann18/conventional-changelog/compare/git-client-v2.5.1...git-client-v2.5.1) (2026-01-28)
 
 ## [2.5.1](https://github.com/conventional-changelog/conventional-changelog/compare/git-client-v2.5.0...git-client-v2.5.1) (2025-06-02)
