@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.2.3](https://github.com/Berkmann18/conventional-changelog/compare/conventional-commits-parser-v6.2.1...conventional-commits-parser-v6.2.3) (2026-02-28)
+
+### Bug Fixes
+
+* default gitlab revert message does not use a final dot in commit message. ([#1422](https://github.com/Berkmann18/conventional-changelog/issues/1422)) ([7391edf](https://github.com/Berkmann18/conventional-changelog/commit/7391edf52cc1edf04f8946410ddb382c0e590aeb))
+
 ## [6.2.2](https://github.com/Berkmann18/conventional-changelog/compare/conventional-commits-parser-v6.2.1...conventional-commits-parser-v6.2.2) (2026-01-28)
 
 ### Bug Fixes

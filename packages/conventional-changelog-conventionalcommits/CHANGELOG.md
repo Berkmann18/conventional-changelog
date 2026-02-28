@@ -3,6 +3,8 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [9.1.0](https://github.com/Berkmann18/conventional-changelog/compare/conventional-changelog-conventionalcommits-v9.1.0...conventional-changelog-conventionalcommits-v9.1.0) (2026-02-28)
+
 ## [9.1.0](https://github.com/Berkmann18/conventional-changelog/compare/conventional-changelog-conventionalcommits-v9.1.0...conventional-changelog-conventionalcommits-v9.1.0) (2026-01-28)
 
 ## [9.1.0](https://github.com/conventional-changelog/conventional-changelog/compare/conventional-changelog-conventionalcommits-v9.0.0...conventional-changelog-conventionalcommits-v9.1.0) (2025-07-10)
