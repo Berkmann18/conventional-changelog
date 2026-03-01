@@ -25,7 +25,8 @@
     "commits",
     "git",
     "log",
-    "git-log"
+    "git-log",
+    "deprecated"
   ],
   "engines": {
     "node": ">=18"

@@ -24,7 +24,8 @@
     "semver",
     "tag",
     "git-tag",
-    "git"
+    "git",
+    "deprecated"
   ],
   "engines": {
     "node": ">=18"
