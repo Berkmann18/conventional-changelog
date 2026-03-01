@@ -5,9 +5,13 @@ import type {
 
 const nomatchRegex = /(?!.*)/
 
+function escape(string: string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
 function join(parts: string[], joiner: string) {
   return parts
-    .map(val => val.trim())
+    .map(val => escape(val.trim()))
     .filter(Boolean)
     .join(joiner)
 }
