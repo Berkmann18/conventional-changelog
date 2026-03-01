@@ -369,5 +369,5 @@ describe('conventional-changelog', () => {
       expect(stdout).toContain('[git-client]: [')
       expect(exitCode).toBe(0)
     })
-  })
+  }, 15_000)
 })

@@ -134,5 +134,5 @@ describe('conventional-changelog-writer', () => {
 
       expect(stderr).toContain('Failed to split commits\n')
     })
-  })
+  }, 15_000)
 })

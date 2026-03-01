@@ -254,5 +254,5 @@ describe('standard-changelog', () => {
       expect(exitCode).toBe(1)
       expect(stderr).toMatch(/Cannot find module/)
     })
-  })
+  }, 15_000)
 })

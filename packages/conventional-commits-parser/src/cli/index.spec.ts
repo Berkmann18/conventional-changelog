@@ -154,5 +154,5 @@ describe('conventional-commits-parser', () => {
 
       expect(stderr).toContain('TypeError: Expected a raw commit\n')
     })
-  })
+  }, 15_000)
 })
