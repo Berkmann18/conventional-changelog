@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-express
-[deps-url]: https://libraries.io/npm/conventional-changelog-express/tree
+[deps-url]: https://libraries.io/npm/conventional-changelog-express
 
 [size]: https://packagephobia.com/badge?p=conventional-changelog-express
 [size-url]: https://packagephobia.com/result?p=conventional-changelog-express

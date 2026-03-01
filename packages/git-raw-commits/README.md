@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/git-raw-commits
-[deps-url]: https://libraries.io/npm/git-raw-commits/tree
+[deps-url]: https://libraries.io/npm/git-raw-commits
 
 [size]: https://packagephobia.com/badge?p=git-raw-commits
 [size-url]: https://packagephobia.com/result?p=git-raw-commits

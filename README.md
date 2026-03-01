@@ -59,7 +59,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-npm-url]: https://www.npmjs.com/package/conventional-changelog
 
 [conventional-changelog-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog
-[conventional-changelog-deps-url]: https://libraries.io/npm/conventional-changelog/tree
+[conventional-changelog-deps-url]: https://libraries.io/npm/conventional-changelog
 
 <!-- conventional-changelog-angular -->
 
@@ -67,7 +67,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-angular-npm-url]: https://www.npmjs.com/package/conventional-changelog-angular
 
 [conventional-changelog-angular-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-angular
-[conventional-changelog-angular-deps-url]: https://libraries.io/npm/conventional-changelog-angular/tree
+[conventional-changelog-angular-deps-url]: https://libraries.io/npm/conventional-changelog-angular
 
 <!-- conventional-changelog-atom -->
 
@@ -75,7 +75,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-atom-npm-url]: https://www.npmjs.com/package/conventional-changelog-atom
 
 [conventional-changelog-atom-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-atom
-[conventional-changelog-atom-deps-url]: https://libraries.io/npm/conventional-changelog-atom/tree
+[conventional-changelog-atom-deps-url]: https://libraries.io/npm/conventional-changelog-atom
 
 <!-- conventional-changelog-codemirror -->
 
@@ -83,7 +83,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-codemirror-npm-url]: https://www.npmjs.com/package/conventional-changelog-codemirror
 
 [conventional-changelog-codemirror-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-codemirror
-[conventional-changelog-codemirror-deps-url]: https://libraries.io/npm/conventional-changelog-codemirror/tree
+[conventional-changelog-codemirror-deps-url]: https://libraries.io/npm/conventional-changelog-codemirror
 
 <!-- conventional-changelog-conventionalcommits -->
 
@@ -91,7 +91,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-conventionalcommits-npm-url]: https://www.npmjs.com/package/conventional-changelog-conventionalcommits
 
 [conventional-changelog-conventionalcommits-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-conventionalcommits
-[conventional-changelog-conventionalcommits-deps-url]: https://libraries.io/npm/conventional-changelog-conventionalcommits/tree
+[conventional-changelog-conventionalcommits-deps-url]: https://libraries.io/npm/conventional-changelog-conventionalcommits
 
 <!-- conventional-changelog-ember -->
 
@@ -99,7 +99,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-ember-npm-url]: https://www.npmjs.com/package/conventional-changelog-ember
 
 [conventional-changelog-ember-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-ember
-[conventional-changelog-ember-deps-url]: https://libraries.io/npm/conventional-changelog-ember/tree
+[conventional-changelog-ember-deps-url]: https://libraries.io/npm/conventional-changelog-ember
 
 <!-- conventional-changelog-eslint -->
 
@@ -107,7 +107,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-eslint-npm-url]: https://www.npmjs.com/package/conventional-changelog-eslint
 
 [conventional-changelog-eslint-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-eslint
-[conventional-changelog-eslint-deps-url]: https://libraries.io/npm/conventional-changelog-eslint/tree
+[conventional-changelog-eslint-deps-url]: https://libraries.io/npm/conventional-changelog-eslint
 
 <!-- conventional-changelog-express -->
 
@@ -115,7 +115,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-express-npm-url]: https://www.npmjs.com/package/conventional-changelog-express
 
 [conventional-changelog-express-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-express
-[conventional-changelog-express-deps-url]: https://libraries.io/npm/conventional-changelog-express/tree
+[conventional-changelog-express-deps-url]: https://libraries.io/npm/conventional-changelog-express
 
 <!-- conventional-changelog-jquery -->
 
@@ -123,7 +123,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-jquery-npm-url]: https://www.npmjs.com/package/conventional-changelog-jquery
 
 [conventional-changelog-jquery-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-jquery
-[conventional-changelog-jquery-deps-url]: https://libraries.io/npm/conventional-changelog-jquery/tree
+[conventional-changelog-jquery-deps-url]: https://libraries.io/npm/conventional-changelog-jquery
 
 <!-- conventional-changelog-jshint -->
 
@@ -131,7 +131,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-jshint-npm-url]: https://www.npmjs.com/package/conventional-changelog-jshint
 
 [conventional-changelog-jshint-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-jshint
-[conventional-changelog-jshint-deps-url]: https://libraries.io/npm/conventional-changelog-jshint/tree
+[conventional-changelog-jshint-deps-url]: https://libraries.io/npm/conventional-changelog-jshint
 
 <!-- conventional-changelog-preset-loader -->
 
@@ -139,7 +139,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-preset-loader-npm-url]: https://www.npmjs.com/package/conventional-changelog-preset-loader
 
 [conventional-changelog-preset-loader-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-preset-loader
-[conventional-changelog-preset-loader-deps-url]: https://libraries.io/npm/conventional-changelog-preset-loader/tree
+[conventional-changelog-preset-loader-deps-url]: https://libraries.io/npm/conventional-changelog-preset-loader
 
 <!-- conventional-changelog-writer -->
 
@@ -147,7 +147,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-changelog-writer-npm-url]: https://www.npmjs.com/package/conventional-changelog-writer
 
 [conventional-changelog-writer-deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-writer
-[conventional-changelog-writer-deps-url]: https://libraries.io/npm/conventional-changelog-writer/tree
+[conventional-changelog-writer-deps-url]: https://libraries.io/npm/conventional-changelog-writer
 
 <!-- conventional-commits-filter -->
 
@@ -155,7 +155,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-commits-filter-npm-url]: https://www.npmjs.com/package/conventional-commits-filter
 
 [conventional-commits-filter-deps]: https://img.shields.io/librariesio/release/npm/conventional-commits-filter
-[conventional-commits-filter-deps-url]: https://libraries.io/npm/conventional-commits-filter/tree
+[conventional-commits-filter-deps-url]: https://libraries.io/npm/conventional-commits-filter
 
 <!-- conventional-commits-parser -->
 
@@ -163,7 +163,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-commits-parser-npm-url]: https://www.npmjs.com/package/conventional-commits-parser
 
 [conventional-commits-parser-deps]: https://img.shields.io/librariesio/release/npm/conventional-commits-parser
-[conventional-commits-parser-deps-url]: https://libraries.io/npm/conventional-commits-parser/tree
+[conventional-commits-parser-deps-url]: https://libraries.io/npm/conventional-commits-parser
 
 <!-- conventional-recommended-bump -->
 
@@ -171,7 +171,7 @@ We recommend considering the following high level tools for automating versionin
 [conventional-recommended-bump-npm-url]: https://www.npmjs.com/package/conventional-recommended-bump
 
 [conventional-recommended-bump-deps]: https://img.shields.io/librariesio/release/npm/conventional-recommended-bump
-[conventional-recommended-bump-deps-url]: https://libraries.io/npm/conventional-recommended-bump/tree
+[conventional-recommended-bump-deps-url]: https://libraries.io/npm/conventional-recommended-bump
 
 <!-- git-client -->
 
@@ -187,7 +187,7 @@ We recommend considering the following high level tools for automating versionin
 [standard-changelog-npm-url]: https://www.npmjs.com/package/standard-changelog
 
 [standard-changelog-deps]: https://img.shields.io/librariesio/release/npm/standard-changelog
-[standard-changelog-deps-url]: https://libraries.io/npm/standard-changelog/tree
+[standard-changelog-deps-url]: https://libraries.io/npm/standard-changelog
 
 ## Node Support Policy
 

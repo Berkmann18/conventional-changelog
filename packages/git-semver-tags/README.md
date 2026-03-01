@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/git-semver-tags
-[deps-url]: https://libraries.io/npm/git-semver-tags/tree
+[deps-url]: https://libraries.io/npm/git-semver-tags
 
 [size]: https://packagephobia.com/badge?p=git-semver-tags
 [size-url]: https://packagephobia.com/result?p=git-semver-tags

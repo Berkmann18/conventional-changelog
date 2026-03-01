@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/standard-changelog
-[deps-url]: https://libraries.io/npm/standard-changelog/tree
+[deps-url]: https://libraries.io/npm/standard-changelog
 
 [size]: https://packagephobia.com/badge?p=standard-changelog
 [size-url]: https://packagephobia.com/result?p=standard-changelog

@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-recommended-bump
-[deps-url]: https://libraries.io/npm/conventional-recommended-bump/tree
+[deps-url]: https://libraries.io/npm/conventional-recommended-bump
 
 [size]: https://packagephobia.com/badge?p=conventional-recommended-bump
 [size-url]: https://packagephobia.com/result?p=conventional-recommended-bump

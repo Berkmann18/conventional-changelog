@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-atom
-[deps-url]: https://libraries.io/npm/conventional-changelog-atom/tree
+[deps-url]: https://libraries.io/npm/conventional-changelog-atom
 
 [size]: https://packagephobia.com/badge?p=conventional-changelog-atom
 [size-url]: https://packagephobia.com/result?p=conventional-changelog-atom

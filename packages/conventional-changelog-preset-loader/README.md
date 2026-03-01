@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-preset-loader
-[deps-url]: https://libraries.io/npm/conventional-changelog-preset-loader/tree
+[deps-url]: https://libraries.io/npm/conventional-changelog-preset-loader
 
 [size]: https://packagephobia.com/badge?p=conventional-changelog-preset-loader
 [size-url]: https://packagephobia.com/result?p=conventional-changelog-preset-loader

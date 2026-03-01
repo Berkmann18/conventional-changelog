@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-changelog-jshint
-[deps-url]: https://libraries.io/npm/conventional-changelog-jshint/tree
+[deps-url]: https://libraries.io/npm/conventional-changelog-jshint
 
 [size]: https://packagephobia.com/badge?p=conventional-changelog-jshint
 [size-url]: https://packagephobia.com/result?p=conventional-changelog-jshint

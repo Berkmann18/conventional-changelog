@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-commits-parser
-[deps-url]: https://libraries.io/npm/conventional-commits-parser/tree
+[deps-url]: https://libraries.io/npm/conventional-commits-parser
 
 [size]: https://packagephobia.com/badge?p=conventional-commits-parser
 [size-url]: https://packagephobia.com/result?p=conventional-commits-parser

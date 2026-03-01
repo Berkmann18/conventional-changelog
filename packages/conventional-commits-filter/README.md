@@ -18,7 +18,7 @@
 [node-url]: https://nodejs.org
 
 [deps]: https://img.shields.io/librariesio/release/npm/conventional-commits-filter
-[deps-url]: https://libraries.io/npm/conventional-commits-filter/tree
+[deps-url]: https://libraries.io/npm/conventional-commits-filter
 
 [size]: https://packagephobia.com/badge?p=conventional-commits-filter
 [size-url]: https://packagephobia.com/result?p=conventional-commits-filter
