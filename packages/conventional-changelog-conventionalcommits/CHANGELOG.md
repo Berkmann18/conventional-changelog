@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [9.3.2](https://github.com/Berkmann18/conventional-changelog/compare/conventional-changelog-conventionalcommits-v9.3.0...conventional-changelog-conventionalcommits-v9.3.2) (2026-04-01)
+
+### Bug Fixes
+
+* skip mention linkification inside inline code ([#1444](https://github.com/Berkmann18/conventional-changelog/issues/1444)) ([c598bf1](https://github.com/Berkmann18/conventional-changelog/commit/c598bf1dd8fe31fc3ce3ec561ac8b2b77cee3a02))
+
 ## [9.3.1](https://github.com/conventional-changelog/conventional-changelog/compare/conventional-changelog-conventionalcommits-v9.3.0...conventional-changelog-conventionalcommits-v9.3.1) (2026-03-29)
 
 ### Bug Fixes
